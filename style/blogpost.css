@@ -161,10 +161,6 @@ main {
 }
 
 
-
-
-
-
 /* section */
 #blogpost .con-2 {
     max-width: 800px;
@@ -176,10 +172,6 @@ main {
 #blogpost {
     background-color: #F5F2F0;
     text-align: center;
-}
-
-#blogpost .img-1 {
-    /* width: 80vw; */
 }
 
 #blogpost .img-2 {
