@@ -1,0 +1,323 @@
+
+
+.hero {
+    background-image: url(../images/background2.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 100%;
+
+}
+
+.become p:nth-child(1) {
+    width: 68px;
+    height: 19px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    text-transform: uppercase;
+    /* Black */
+    color: #161722;
+    padding-top: 160px;
+    margin-left: 110px;
+}
+
+.become h2 {
+    width: 647px;
+    height: 64px;
+    /* Heading h2 */
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    color: #161722;
+    margin-top: 26px;
+    padding-bottom: 300px;
+    margin-left: 110px;
+}
+
+.first_section p {
+    padding-top: 50px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #161722;
+}
+
+.first_section h1 {
+    padding-top: 16px;
+    text-align: center;
+    font-family: 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: #161722;
+}
+
+.lorem {
+    max-width: 768px;
+    height: 72px;
+    margin: 0 auto;
+    font-family: 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #161722;
+    opacity: 0.78;
+}
+
+.image {
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 98px;
+    gap: 24px;
+}
+
+.text {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.our {
+    text-align: left;
+    width: 148px;
+    height: 19px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #161722;
+}
+
+.first_txt h2 {
+    margin-top: 26px;
+    width: 371px;
+    height: 88px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: #161722;
+}
+
+.first_txt .lorems {
+    margin-top: -35px;
+    text-align: left;
+    width: 372px;
+    height: 144px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #161722;
+    opacity: 0.78;
+}
+
+.what {
+    text-align: left;
+    width: 85px;
+    height: 19px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #161722;
+}
+
+.second_txt h2 {
+    margin-top: 26px;
+    width: 371px;
+    height: 88px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: #161722;
+}
+
+.second_txt .ipsum {
+    margin-top: -35px;
+
+    text-align: left;
+    width: 371px;
+    height: 144px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #161722;
+    opacity: 0.78;
+}
+
+.benefit {
+    margin-top: 150px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #161722;
+}
+
+.the {
+    padding-top: 16px;
+    max-width: 432px;
+    margin: 0 auto;
+    height: 128px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: #161722;
+}
+
+.txt_image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 96px;
+    margin-top: 64px;
+}
+
+.one {
+    align-items: center;
+    display: flex;
+    gap: 24px;
+}
+
+.two {
+    display: flex;
+}
+
+.txt_image div:nth-child(even) {
+    gap: 48px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.find {
+    margin-top: 146px;
+    width: 410px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: #161722;
+}
+
+.first_img p {
+    margin-top: 16px;
+    text-align: left;
+    width: 500px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #161722;
+    opacity: 0.78;
+}
+
+.first_ig p {
+    margin-top: 16px;
+    text-align: left;
+    width: 500px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #161722;
+    opacity: 0.78;
+}
+
+.im {
+    width: 500px;
+    height: 320px;
+}
+
+.three_section p {
+    padding-top: 128px;
+    max-width: 125px;
+    margin: 0 auto;
+    height: 19px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #161722;
+}
+
+.three_section h1 {
+    padding-top: 16px;
+    margin: 0 auto;
+    max-width: 637px;
+    height: 64px;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    /* text-align: center; */
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: #161722;
+}
+
+.third {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    margin-top: 64px;
+    gap: 24px;
+    margin-bottom: 128px;
+}
+
+
+
+@media screen and (max-width:700px) {
+    .txt_image div:nth-child(even) {
+        flex-direction: row;
+    }
+
+    .third {
+        margin-top: 300px;
+    }
+}
