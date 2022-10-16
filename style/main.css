@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
 @font-face {
     font-family: 'Roboto Condensed', sans-serif;
     src: url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
@@ -11,6 +12,12 @@
     text-decoration: none;
 }
 
+header{
+    z-index: 2;
+    position: sticky;
+    top: 0px;
+    position: -webkit-sticky;
+}
 .container {
     max-width: 1500px;
     padding: 0 50px;
@@ -196,6 +203,7 @@ input {
 }
 
 .subsicribe {
+    /* margin-top: -5px; */
     color: rgb(0, 0, 0);
     float: right;
     padding: 22px 60px;

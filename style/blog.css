@@ -253,10 +253,12 @@ main .section1 .main .right button {
 
 
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
 @font-face {
     font-family: 'Roboto Condensed', sans-serif;
     src: url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
 }
+
 * {
     margin: 0;
     padding: 0;
@@ -382,10 +384,10 @@ input {
     color: white;
 }
 
-.subsicribe {
+/* .subsicribe {
     color: rgb(0, 0, 0);
     float: right;
     padding: 22px 60px;
     background: #FFD2A4;
     border-radius: 12px;
-}
+} */
